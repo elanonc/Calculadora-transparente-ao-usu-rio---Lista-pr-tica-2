@@ -1,1 +1,3 @@
-# Calculadora-transparente-ao-usu-rio---Lista-pr-tica-2
+# Calculadora Transparente ao Usuario
+
+Lista prática 02
